@@ -10,13 +10,13 @@ Este projeto reúne vários exemplos práticos para estudar e entender conceitos
 
 Neste projeto você vai encontrar exemplos de:
 
-* ✅ Criação de **classes** e uso de **construtores**.
+* ✅ Criação de classes e uso de construtores.
 * ✅ Criação de objetos a partir de classes (instâncias).
-* ✅ Uso de **objetos de configuração** (options) para inicializar classes.
+* ✅ Uso de objetos de configuração (options) para inicializar classes.
 * ✅ Manipulação de propriedades internas de objetos.
-* ✅ Uso de **getters e setters** para controlar acesso e modificação de dados.
-* ✅ Uso de **setters em objetos literais**.
-* ✅ **Herança** entre classes (uma classe herdando de outra).
+* ✅ Uso de getters e setters para controlar acesso e modificação de dados.
+* ✅ Uso de setters em objetos literais.
+* ✅ Herança entre classes (uma classe herdando de outra).
 * ✅ Reutilização de código através de classes base.
 
 ---
@@ -39,7 +39,7 @@ Neste projeto você vai encontrar exemplos de:
 
 ## 📚 Indicado para
 
-* Iniciantes em JavaScript
-* Estudantes de programação
-* Quem quer praticar **POO (Programação Orientada a Objetos)** com exemplos simples e diretos
+* Iniciantes em JavaScript.
+* Estudantes de programação.
+* Quem quer praticar **POO (Programação Orientada a Objetos)** com exemplos simples e diretos.
 
